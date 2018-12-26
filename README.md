@@ -1,73 +1,22 @@
-﻿# W7:[高性能协同](https://github.com/OS-Q/W7) 
+﻿# [RTOS](https://github.com/OS-Q/RTOS) 
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
-高性能协同控制
-
-#### 归属控制节点：[M2](https://github.com/OS-Q/M1)
-
 #### 关于系统架构：[OS-Q](https://github.com/OS-Q/OS-Q)
 
----
+## [平台描述](https://github.com/OS-Q/RTOS/wiki) 
 
-## [平台描述](https://github.com/OS-Q/W7/wiki) 
+Q系统包括大量的边缘设备，这些设备的开发工具和应用层都不同，所以需要有归一化设计的封装层，在一定程度上，RTOS通用的就是就是一层很好的系统封装
 
+### [共用资源](OS-Q/)
 
-### [共用资源](https://github.com/OS-Q/W7/wiki/src) 
+#### [uCOSIII参考设计](https://github.com/OS-Q/uCOSIII)
 
-#### software
+#### [FreeRTOS参考设计](https://github.com/OS-Q/FreeRTOS)
 
-#### hardware
-
-
----
-
-边缘设备命名规则：体系 Q[1,4] > 节点 M[1,12] > 平台 W[1,52] > 设备 D[1,365]。
-
-## [包含设备](https://github.com/OS-Q/W7/wiki/index) 
-
-#### D1:[ADC采集设备](https://github.com/OS-Q/D1)
-
-
-
-#### D2:[板载感知设备](https://github.com/OS-Q/D2)
-
-
-
-#### D3:[LCD显示设备](https://github.com/OS-Q/D3)
-
-
-
-#### D4:[板级设备](https://github.com/OS-Q/D4)
-
-
-#### D5:[板级设备](https://github.com/OS-Q/D5)
-
-
-
-#### D6:[板级设备](https://github.com/OS-Q/D6)
-
-
-
-#### D7:[板级设备](https://github.com/OS-Q/D7)
-
-
-
-
-## [同级平台](https://github.com/OS-Q/W1/wiki/index)
-
-#### W5:[低成本平台](https://github.com/OS-Q/W5)
-
-#### W6:[性价比平台](https://github.com/OS-Q/W6)
-
-#### -> W7:[高性能平台](https://github.com/OS-Q/W7)
-
-#### W8:[高密度平台](https://github.com/OS-Q/W8)
-
-#### W9:[专用化平台](https://github.com/OS-Q/W9)
 
 ---
 
-###  [Q redefined the scope of Operation System](http://www.OS-Q.com)
-###  qitas@qitas.cn
-###  2018-11-30
+####  © qitas@qitas.cn
+###  [OS-Q redefined Operation System](http://www.OS-Q.com)
+####  @ 2018-12-26
