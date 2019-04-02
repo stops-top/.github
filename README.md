@@ -1,4 +1,4 @@
-﻿# [RTOS-Q = RTQ](https://github.com/OS-Q/RTQ) 
+﻿# [RTOS&Q = RTQ](https://github.com/OS-Q/RTQ) 
 
 [![sites](OS-Q/OS-Q.png)](http://www.OS-Q.com)
 
@@ -22,8 +22,13 @@ Q系统包括大量的嵌入式边缘设备，这些设备的开发工具和应�
 
 FreeRTOS操作系统是完全免费的操作系统，具有源码公开、可移植、可裁减、调度策略灵活的特点，可以方便地移植到各种单片机上运行。
 
+## [关联索引](OS-Q/)
 
-###  [RTOS资源关联](https://github.com/Qitas/RTOS)
+- [QLinux](https://github.com/OS-Q/Linux)
+- [Edge-Q](https://github.com/OS-Q/Edge-Q)
+- [Docker](https://github.com/OS-Q/Docker)
+- [RTOS资源](https://github.com/Qitas/RTOS)
+
 
 ---
 
