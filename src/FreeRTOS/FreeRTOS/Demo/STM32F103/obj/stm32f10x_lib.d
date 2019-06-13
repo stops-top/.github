@@ -1,3 +1,0 @@
-.\obj\stm32f10x_lib.o: STM32F10xFWLib\src\stm32f10x_lib.c
-.\obj\stm32f10x_lib.o: .\STM32F10xFWLib\inc\stm32f10x_lib.h
-.\obj\stm32f10x_lib.o: .\STM32F10xFWLib\inc\stm32f10x_map.h

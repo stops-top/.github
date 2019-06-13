@@ -1,3 +1,0 @@
-.\obj\stm32f10x_rcc.o: STM32F10xFWLib\src\stm32f10x_rcc.c
-.\obj\stm32f10x_rcc.o: .\STM32F10xFWLib\inc\stm32f10x_rcc.h
-.\obj\stm32f10x_rcc.o: .\STM32F10xFWLib\inc\stm32f10x_map.h
