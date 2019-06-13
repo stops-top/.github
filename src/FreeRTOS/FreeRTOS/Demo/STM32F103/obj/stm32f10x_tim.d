@@ -1,0 +1,3 @@
+.\obj\stm32f10x_tim.o: STM32F10xFWLib\src\stm32f10x_tim.c
+.\obj\stm32f10x_tim.o: .\STM32F10xFWLib\inc\stm32f10x_tim.h
+.\obj\stm32f10x_tim.o: .\STM32F10xFWLib\inc\stm32f10x_map.h

@@ -25,6 +25,5 @@ Q系统包括大量的嵌入式边缘设备，这些设备的开发工具和应�
 * [arduino](https://github.com/OS-Q/arduino)
 * [Linux](https://github.com/OS-Q/Linux)
 
-
 ### [Q : Operation System for edge devices](http://www.OS-Q.com/RTQ)
 ####  2019-6-13
