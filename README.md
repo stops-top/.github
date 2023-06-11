@@ -1,6 +1,6 @@
-﻿# [Current Scale](https://github.com/OS-Q/CurrentScale)
+﻿# [STOPs](https://github.com/stops-top)
 
-[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
-### [简介](http://WWW.OS-Q.COM/CurrentScale)
+👋，STOPs.top 尝试提供一种新的空间搭配，从技术到产品到服务，构建具有生产力的家居生活生产环境。
 
-[CurrentScale](http://WWW.OS-Q.COM/CurrentScale) 基于组合探测实现大电流大范围测量
+* 家庭服务机器人及计算系统
+* 生产力环境及配套平台设施
