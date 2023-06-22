@@ -1,6 +1,16 @@
-﻿# [STOPs](https://github.com/stops-top)
+﻿# 🌈[STOPs](https://github.com/stops-top)
 
-👋，STOPs.top 尝试提供一种新的空间搭配，从技术到产品到服务，构建具有生产力的家居生活生产环境。
+🙋‍♀️智慧升级，[STOPs.top](http://STOPs.top)探索新时代的家庭智慧基础设施和新的生产力环境
 
-* 家庭服务机器人及计算系统
-* 生产力环境及配套平台设施
+* 接口标准
+    * [NGFF](https://github.com/stops-top/NGFF) 
+    * [USBC](https://github.com/stops-top/USBC) 
+    * [PCI-E](https://github.com/stops-top/PCI-E) 
+    * [QHub](https://github.com/stops-top/QHub) 
+* 👩‍💻[Trezor](https://github.com/trezor) 
+    * [firmware](https://github.com/stops-top/firmware) 
+    * [trezord](https://github.com/stops-top/trezord) 
+    * [suite](https://github.com/stops-top/suite) 
+    * [blockbook](https://github.com/stops-top/blockbook) 
+
+    
