@@ -5,7 +5,7 @@
 * 接口标准
     * [NGFF](https://github.com/stops-top/NGFF) 
     * [USBC](https://github.com/stops-top/USBC) 
-    * [PCI-E](https://github.com/stops-top/PCI-E) 
+    * [DIMM](https://github.com/stops-top/DIMM) 
     * [QHub](https://github.com/stops-top/QHub) 
 * 👩‍💻[Trezor](https://github.com/trezor) 
     * [firmware](https://github.com/stops-top/firmware) 
